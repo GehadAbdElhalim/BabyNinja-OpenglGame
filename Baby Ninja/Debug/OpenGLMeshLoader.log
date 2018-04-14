@@ -1,0 +1,6 @@
+﻿  OpenGLMeshLoader.cpp
+e:\baby ninja\texturebuilder.h(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\baby ninja\texturebuilder.h(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\baby ninja\openglmeshloader.cpp(269): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> E:\Baby Ninja\Debug\OpenGLMeshLoader.exe
